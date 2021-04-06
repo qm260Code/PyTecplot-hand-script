@@ -1,2 +1,4 @@
-# PyTecplot-hand-script
-This is some scripts created by Tecplot using PyTecplot API to manipulate the CFD data
+# Useful Scripts for Tecplot 360 and Tecplot Chorus
+
+These scripts use PyTecplot or Tecplot 360's macro language to perform
+specific tasks.
